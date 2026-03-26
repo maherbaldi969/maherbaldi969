@@ -1,49 +1,99 @@
-<h1 align="center">Hi 👋, I'm Baldi Maher </h1>
-<h3 align="center">A full-stack developer from Tunisia</h3>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BenGamraOussama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenGamraOussama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> </div>
-
-- 🔭 I’m currently working on **EcoTrack**
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m looking to collaborate on **flutter**
-
-- 🤝 I’m looking for help with **ML**
-
-- 💬 Ask me about **flutter, Node js**
-
-- 📫 How to reach me **maherbaaldi@gamil.com**
-
-
-# 💻 Languages and Tools:
-<p align="left">
-  <!-- Langages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart (Flutter)" width="40" height="40"/>
-
-  <!-- Bases de données -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="100" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-
-</p>
-
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/maher-baldi-3b77312bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maher-baldi" height="30" width="40" /></a>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=somranimehdi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋, I'm Maher Baldi</h1>
+<h3 align="center">Full-Stack & Mobile Developer | Symfony • Node.js • Flutter</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=somranimehdi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I’m a full-stack developer from Tunisia, specialized in building scalable web and mobile applications using **Symfony, Node.js, PHP, and Flutter**.
+
+I design and develop complete systems including:
+- 🔹 Backend APIs & real-time applications
+- 🔹 Mobile apps with geolocation & booking systems
+- 🔹 Admin dashboards & multi-role platforms
+- 🔹 Production-ready architectures with Docker & CI/CD
+
+💡 I focus on clean architecture, performance, security, and delivering real-world solutions.
+
+---
+
+## 🧠 Featured Projects
+
+### 🏥 TbibTech - Medical Management System
+Full Symfony application for clinic management (patients, appointments, payments, admin dashboard).
+
+### 🍽 RestauHub - Restaurant Management System
+Multi-role PHP platform with orders, reservations, delivery tracking + Docker & CI/CD.
+
+### 🌍 EcoTrack - Mobile App (PFE)
+Flutter app for eco-tourism with maps, real-time tracking, booking & chat.
+
+### ⚙️ EcoTrack Backend API
+Node.js backend with authentication, payments, WebSocket chat, Redis caching.
+
+### 🧪 Test Automation Suite
+Python + Selenium testing system for booking validation, performance & reporting.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maherbaldi969&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maherbaldi969&layout=compact&theme=dracula" height="150"/>
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+👉 https://baldiweb.xyz
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **maherbaaldi@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/maher-baldi-3b77312bb
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=maherbaldi969&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 👁 Visitors
+
+![](https://visitcount.itsvg.in/api?id=maherbaldi969&icon=0&color=0)
