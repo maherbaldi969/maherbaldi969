@@ -77,7 +77,7 @@ Python + Selenium testing system for booking validation, performance & reporting
 
 ## 🌐 Portfolio
 
-👉 https://baldiweb.xyz
+👉 [https://baldiweb.xyz](https://baldiweb.xyz/portfolio/)
 
 ---
 
